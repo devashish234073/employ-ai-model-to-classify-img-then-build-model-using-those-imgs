@@ -17,4 +17,6 @@ const fingerIndexes = [[0, 1, 2, 3, 4], [0, 5, 6, 7, 8], [0, 9, 10, 11, 12], [0,
                 return true;
             }
 
+Video showing this usage: https://www.youtube.com/watch?v=RRHMGVVn0Xs
+
 Next will have to generate images in different lightning conditions and will have to train new model using those images
