@@ -17,6 +17,11 @@ const fingerIndexes = [[0, 1, 2, 3, 4], [0, 5, 6, 7, 8], [0, 9, 10, 11, 12], [0,
                 return true;
             }
 
+The 1_0 in the file name means hand is there but index finger is down
+The 0_0 in finger means hand is not there and index finger is definitely not up
+The 1_1 indicates hand is there and index finger is up
+0_1 is an invalid classification
+
 Video showing this usage: https://www.youtube.com/watch?v=RRHMGVVn0Xs
 
 Next will have to generate images in different lightning conditions and will have to train new model using those images
