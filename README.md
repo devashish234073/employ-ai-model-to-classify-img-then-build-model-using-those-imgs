@@ -1,4 +1,4 @@
-# employ-ai-model-to-classify-img-then-build-model-using-those-imgs
+# train-using-trained-model
 
 Saving image every few frames with the label whether hand is present or not and whether index finger is up or not.
 
