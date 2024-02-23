@@ -24,7 +24,15 @@ The 1_1 indicates hand is there and index finger is up
 
 Video showing this usage: https://www.youtube.com/watch?v=RRHMGVVn0Xs
 
-Next will have to generate images in different lightning conditions and will have to train new model using those images
+With 500+ images its getting killed in my personal laptop:
+
+![image](https://github.com/devashish234073/train-using-trained-model/assets/20777854/89d788a4-250e-4231-921f-cb13132ec148)
+
+With 320 images training completed in my system but the result was not satisfactory as the accuracy was 0:
+
+![image](https://github.com/devashish234073/train-using-trained-model/assets/20777854/2895a411-569d-44e3-bd5a-3b75195aaeee)
+
+
 
 To train the model first run the html and keep hand in from of webcam generate 200 images copy them to images folder in the same directory as the html.
 
