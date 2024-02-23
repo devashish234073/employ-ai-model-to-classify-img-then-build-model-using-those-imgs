@@ -25,3 +25,10 @@ The 1_1 indicates hand is there and index finger is up
 Video showing this usage: https://www.youtube.com/watch?v=RRHMGVVn0Xs
 
 Next will have to generate images in different lightning conditions and will have to train new model using those images
+
+To train the model first run the html and keep hand in from of webcam generate 200 images copy them to images folder in the same directory as the html.
+
+then run npm install 
+then run node server.js
+
+new model will be created and saved in saved_models directory and test set of images will be tested against that.
